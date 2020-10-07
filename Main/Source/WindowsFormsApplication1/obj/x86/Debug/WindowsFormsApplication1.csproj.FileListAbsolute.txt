@@ -1,0 +1,11 @@
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\bin\Debug\EInvoice_Chevron.dll
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\bin\Debug\EInvoice_Chevron.pdb
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

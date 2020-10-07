@@ -1,0 +1,9 @@
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\bin\Debug\EInvoice_Chevron.dll.config
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\bin\Debug\EInvoice_Chevron.dll
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\bin\Debug\EInvoice_Chevron.pdb
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\obj\Debug\EInvoice_Chevron.csproj.ResolveComReference.cache
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\obj\Debug\EInvoice_Chevron.dll
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\obj\Debug\EInvoice_Chevron.pdb
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\bin\Debug\EInvoice_Chevron.tlb
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\obj\Debug\EInvoice_Chevron.csprojResolveAssemblyReference.cache
+D:\Development\TFS\Supreme\.NET Code\EInvoice_Chevron\Main\Source\EInvoice_Chevron\obj\Debug\EInvoice_Chevron.csproj.CoreCompileInputs.cache
